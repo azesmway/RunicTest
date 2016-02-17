@@ -1,0 +1,43 @@
+{
+  "name": "RUNIC TEST (Version 5.1)",
+  "description": "RUNIC TEST - version 5.1",
+  "app_name": "runic",
+  "version": "5.1",
+  "dependencies": {
+    "express": "4.*.*"
+  },
+  "scripts": {
+    "start": "nw"
+  },
+  "devDependencies": {
+    "mocha": "1.*",
+    "must": ">= 0.11 < 1",
+    "gulp": "3.*",
+    "gulp-jshint": "1.*",
+    "gulp-mocha": "0.*",
+    "jshint-stylish": "0.*"
+  },
+  "main": "./php-webkit/index.html",
+  "node-remote": "<local>",
+  "phpwebkit": {
+    "bin": "",
+    "path": "./application",
+    "host": "localhost",
+    "port": 9090
+  },
+  "license": "MIT",
+  "window": {
+    "title": "RUNIC TEST",
+    "toolbar": true,
+    "frame": true,
+    "width": 1200,
+    "height": 900,
+    "position": "center",
+    "mac_icon": "runa3.png",
+    "exe_icon": "runa3.png",
+    "icon": "runa3.png"
+  },
+  "author": "Alexey Zolotarev",
+  "repository": {
+  }
+}

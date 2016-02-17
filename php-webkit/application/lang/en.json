@@ -1,0 +1,19 @@
+{
+	"lang_menu1":"Main",
+	"lang_menu2":"Diagnostics <span class=\"caret\"></span>",
+	"lang_menu3":"Correction <span class=\"caret\"></span>",
+	"lang_menu4":"Information <span class=\"caret\"></span>",	
+	"lang_menu5":"About Us",
+	"lang_menu6":"My account",
+	"lang_menu7":"Login/Registration",	
+	"lang_main_text":"The test is based on runic comparative analysis of the human response to each of the Runes Rune Circle.<br>Reaction to the Rune is formalized in the form of a man selecting a particular option Runes.",
+	"lang_menu21":"Full diagnostics",
+	"lang_menu22":"In one rune",
+	"lang_menu31":"Raising",
+	"lang_menu32":"Lowering",
+	"lang_menu41":"Full description",
+	"lang_menu42":"Test Description",
+	"lang_menu43":"Instructions",
+	"lang_menu44":"Social Net",	
+	"lang_menu45":"Forum"											
+}
