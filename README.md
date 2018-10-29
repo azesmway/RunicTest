@@ -2,4 +2,4 @@
 
 Рунический тест
 
-Node.js 
+Node.js + php-webkit
