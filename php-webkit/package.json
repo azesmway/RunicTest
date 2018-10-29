@@ -4,8 +4,8 @@
   "app_name": "runic",
   "version": "5.1",
   "dependencies": {
-    "express": "4.*.*"
-  },
+    "express": ">=4.5.0"
+  }
   "scripts": {
     "start": "nw"
   },
